@@ -8,5 +8,5 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | :-----------: | ----------- |----------- |
 | 1 | Project 1| Project Details |
 | 2 | Project 2| Project Details |
-| 3 | Proeject 3 |  Project Details |
-| 4 | Project 4 | Project Details |
+| 3 | Project 3| Project Details|
+| 4 | Project 4| Project Details |
